@@ -1,5 +1,3 @@
-# Python3 program to illustrate String with unique
-# characters
 def uniqueCharacters(str):
 
 	# Converting string to set
